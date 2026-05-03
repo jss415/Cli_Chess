@@ -9,6 +9,23 @@ A two-player command-line chess game written in Java.
 https://github.com/user-attachments/assets/8fe366d3-316e-4878-9c60-659ec6ae2f95
 
 
+## Features
+
+- **Full chess rules**
+  - Legal-move validation for every piece type (pawn, knight, bishop, rook, queen, king)
+  - Check detection — moves that would leave your own king in check are rejected
+  - Checkmate ends the game with the opposing player declared winner
+  - Stalemate ends the game in a draw
+- **Special moves**
+  - Kingside and queenside castling (with all the standard preconditions: king and rook unmoved, path clear, king not in or passing through check)
+  - En passant pawn captures
+  - Pawn promotion to queen, rook, bishop, or knight
+  - Two-square pawn opening move
+- **Takeback** — undo any move from the in-game move history
+- **Board flip** — swap player perspective at the press of a key
+- **Draw offers and resignation** — built-in commands to end the game without checkmate
+- **Coordinate-notation input** — type the from-square and to-square (e.g. `e2 e4`)
+
 
 ## Requirements
 
