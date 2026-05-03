@@ -1,0 +1,14 @@
+# Build output
+bin/
+*.class
+
+# macOS
+.DS_Store
+
+# Editor local
+.vscode/
+.idea/
+*.swp
+
+# Local-only files (notes, archives, scratch, agent settings)
+_local/
