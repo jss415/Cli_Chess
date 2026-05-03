@@ -1,6 +1,6 @@
 # Cli_Chess
 
-A two-player command-line chess game written in Java. Renders a Lanterna-based TUI by default, with a plain console fallback for terminals that can't host the TUI.
+A two-player command-line chess game written in Java.
 
 ## Demo
 
