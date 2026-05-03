@@ -4,7 +4,11 @@ A two-player command-line chess game written in Java. Renders a Lanterna-based T
 
 ## Demo
 
-https://github.com/jss415/Cli_Chess/raw/main/demo.mp4
+
+
+https://github.com/user-attachments/assets/8fe366d3-316e-4878-9c60-659ec6ae2f95
+
+
 
 ## Requirements
 
